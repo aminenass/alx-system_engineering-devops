@@ -1,6 +1,2 @@
 #!/bin/bash
-ls -la
-echo "parent dir"
-ls -la ..
-echo "dir boot"
-ls -la /boot
+ls -la ls -la .. ls -la /boot
